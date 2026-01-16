@@ -13,6 +13,12 @@ This is a Fullstack web application designed to manage a database of superheroes
 
 ## Setup Instructions
 
+Clone the repository:
+
+```bash
+git clone https://github.com/MichaelSoldatenko/SuperheroApp
+```
+
 ### Database Setup
 
 Open your MySQL terminal or MySQL Workbench.
